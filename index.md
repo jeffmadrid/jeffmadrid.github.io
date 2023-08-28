@@ -2,7 +2,7 @@
 title: ""
 feature_text: |
   ## jeffmadrid
-  "the simplest solution is almost always the best"
+  "test first, the lesson comes after"
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
