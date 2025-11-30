@@ -2,7 +2,7 @@
 title: ""
 feature_text: |
   ## jeffmadrid
-  "test first, the lesson comes after"
+  Software Engineer
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 

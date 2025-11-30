@@ -1,0 +1,41 @@
+baseURL = 'https://jeffmadrid.github.io/'
+languageCode = 'en-us'
+title = 'jeffmadrid'
+theme = 'terminal'
+
+[params]
+  # Terminal theme specific settings
+  contentTypeName = "posts"
+  themeColor = "green"  # Can be: orange, blue, red, green, pink
+  showMenuItems = 3
+  fullWidthTheme = false
+  centerTheme = true
+
+  # Author info
+  [params.author]
+    name = "jeffmadrid"
+    email = "jefferson.imadrid@gmail.com"
+
+# Menu configuration
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Social links (Terminal theme supports these)
+[params.social]
+  github = "jeffmadrid"
+  gitlab = "jeffmadrid"
+  linkedin = "jeffersonmadrid"
