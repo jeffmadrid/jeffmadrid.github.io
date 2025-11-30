@@ -28,7 +28,7 @@ github_username:  jeffmadrid
 
 # Build settings
 theme: jekyll-remote-theme
-remote_theme: daviddarnes/alembic@main
+remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
