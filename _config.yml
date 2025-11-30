@@ -29,6 +29,13 @@ github_username:  jeffmadrid
 # Build settings
 theme: jekyll-remote-theme
 remote_theme: b2a3e8/jekyll-theme-console
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - posts.md
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
