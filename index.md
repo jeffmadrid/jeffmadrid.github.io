@@ -7,4 +7,4 @@ layout: default
 
 Software Engineer interested in microservices, distributed systems, and self-hosting.
 
-Check out my [posts](/posts/) or learn more [about me](/about/).
+Check out my [blog posts](/blogs/) or learn more [about me](/about/).

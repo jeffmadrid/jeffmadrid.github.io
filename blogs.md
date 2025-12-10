@@ -1,9 +1,12 @@
 ---
-title: "/posts"
+title: "/blogs"
 layout: default
+permalink: /blogs/
 ---
 
-# Blog
+# Blogs
+
+A collection of blog posts that I learn and experience in my journey in Software Engineering 💻
 
 {% for post in site.posts %}
   <article>
