@@ -3,7 +3,7 @@ title: "/"
 layout: default
 ---
 
-# Welcome
+# Welcome ✌︎㋡
 
 Software Engineer interested in microservices, monorepos, distributed systems, self-hosting and many other things!
 

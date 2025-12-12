@@ -4,9 +4,13 @@ layout: default
 permalink: /blogs/
 ---
 
-# Blogs
+# Blogs ✧｡٩(ˊᗜˋ )و✧*｡
 
 A collection of blog posts documenting my learning and experiences throughout my Software Engineering journey. 💻
+
+Some may be relating to computing and performance, others, just random things.
+
+<br>
 
 {% for post in site.posts %}
   <article>
