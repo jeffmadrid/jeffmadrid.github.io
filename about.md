@@ -5,7 +5,7 @@ layout: default
 
 ## Personal
 
-Besides microservices my interests involve homelabbing and self-hosting! Currently trying to self-host all sorts of things for my personal digital assets. Things like 🔒 Pi-hole, 📷 Immich for my photos and videos, 📀 Jellyfin for multimedia, WoL, and testing various open-source and self-hosted 📝 note taking applications.
+My personal interests involve homelabbing and self-hosting! Currently trying to self-host all sorts of things for my personal digital assets. Things like 🔒 Pi-hole, 📷 Immich for my photos and videos, 📀 Jellyfin for multimedia, WoL, and testing various open-source and self-hosted 📝 note taking applications.
 
 ## Professional
 

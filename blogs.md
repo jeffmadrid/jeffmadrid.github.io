@@ -6,7 +6,7 @@ permalink: /blogs/
 
 # Blogs
 
-A collection of blog posts that I learn and experience in my journey in Software Engineering 💻
+A collection of blog posts documenting my learning and experiences throughout my Software Engineering journey. 💻
 
 {% for post in site.posts %}
   <article>
